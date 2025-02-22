@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f9fa;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgb(65, 75, 128);
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
